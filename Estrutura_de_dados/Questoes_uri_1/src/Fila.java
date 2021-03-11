@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
     /*
--O programa é uma fila
+-O programa é uma fil
 -Primeiramente definir o numero de casos a ser testado
 -Inserir o numero de alunos
 -Inserir as notas dos alunos
